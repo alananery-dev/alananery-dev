@@ -23,16 +23,15 @@ Não adianta ter um site incrível se ninguém encontra. Desenvolvo estruturas p
 
 ---
 
-### 📂 Portfólio de Sucesso (Projetos em Destaque)
+### 📂 Portfólio de Projetos
 
-Aqui você pode ver na prática como ajudo empresas a se destacarem:
+Abaixo, modelos de Landing Pages desenvolvidas para diferentes nichos, focadas em apresentação profissional:
 
-| Projeto | Solução Entregue | Link |
+| Setor | Proposta do Projeto | Link |
 | :--- | :--- | :--- |
-| **Landing Page de Alta Conversão** | Focada em captura de leads para prestadores de serviço. | [Visualizar Projeto 🔗](#) |
-| **Site Institucional Premium** | Autoridade e elegância para escritórios e consultórios. | [Visualizar Projeto 🔗](#) |
-| **E-commerce para Negócios Locais** | Simplicidade na compra e gestão de pedidos. | [Visualizar Projeto 🔗](#) |
-
+| **⚖️ Advocacia** | Estrutura sóbria e organizada para apresentação de serviços jurídicos e contato. | [Visualizar Projeto 🔗](https://alananery-dev.github.io/Projeto1-landingpage/) |
+| **🧠 Psicologia** | Layout limpo e informativo, priorizando a facilidade de navegação e clareza. | [Visualizar Projeto 🔗](https://alananery-dev.github.io/Projeto2-landingpage/) |
+| **✨ Estética** | Design com foco visual, organizado para exibir procedimentos e canais de atendimento. | [Visualizar Projeto 🔗](https://alananery-dev.github.io/Projeto3-landingpage/) |
 ---
 
 ### 🤝 Vamos elevar o nível do seu negócio?
