@@ -40,9 +40,9 @@ Você precisa que seja mais que um desenvolvedor, precisa ser alguém que entend
 
 Eu te ajudo a entender o melhor caminho para o seu momento atual, com clareza, e crescimento real.
 
-[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](SEU_LINK_DO_WHATSAPP_AQUI)
-[![E-mail](https://img.shields.io/badge/Enviar_E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([SEU_LINK_DO_WHATSAPP_AQUI](https://w.app/stm6eh))
+[![E-mail](https://img.shields.io/badge/Enviar_E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alananery.m@gmail.com)
+
 
 ---
 <p align="center">
